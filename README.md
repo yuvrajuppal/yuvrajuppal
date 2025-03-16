@@ -23,22 +23,22 @@ Welcome to my GitHub portfolio! I'm passionate about building modern web and mob
 - **Firebase** for authentication and database  
 - **PHP & SQL** for backend  
 
-🔗 [GitHub Repository](https://github.com/yuvrajuppal/Yuwatch)
+🔗 [GitHub Repository](https://github.com/yuvrajuppal/YuWatchApk)
 
 ### 🛒 E-Commerce App  
 *A complete shopping experience*  
 - **Flutter** front-end  
-- **PHP & SQL** backend  
+- **Firebase** backend  
 - Supports authentication, cart, payments  
 
-🔗 [GitHub Repository](https://github.com/yuvrajuppal/EcommerceApp)
+🔗 [GitHub Repository](https://github.com/yuvrajuppal/yukart)
 
 ### 💬 Chat Application  
 *A real-time messaging app*  
 - **Flutter & Firebase**  
 - Supports image sharing, push notifications  
 
-🔗 [GitHub Repository](https://github.com/yuvrajuppal/ChatApp)
+🔗 [GitHub Repository](https://github.com/yuvrajuppal/yuchat)
 
 ---
 
