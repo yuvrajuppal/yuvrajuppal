@@ -52,7 +52,7 @@ Welcome to my GitHub portfolio! I'm passionate about building modern web and mob
 ## 📫 Contact Me  
 
 - 📧 Email: your@email.com  
-- 💼 LinkedIn: [linkedin.com/in/yuvrajuppal](https://linkedin.com/in/yuvrajuppal)  
-- 🌍 Website: [yourwebsite.com](https://yourwebsite.com)  
+- 💼 LinkedIn: [linkedin.com/in/yuvrajuppal](https://www.linkedin.com/in/yuvrajuppal/)  
+- 🌍 Website: [yourwebsite.com](https://yuvrajuppal.in/)  
 
 Let's connect and build something amazing! 🚀  
