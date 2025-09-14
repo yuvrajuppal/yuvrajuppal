@@ -19,7 +19,7 @@ Hello! I'm Yuvraj Uppal, a passionate Full-Stack Developer specializing in Web a
 ## Get In Touch
 - LinkedIn: https://www.linkedin.com/in/yuvrajuppal/
 - Email: = yuvrajuppal211@gmail.com
-- Portfolio: yuvrajuppal.dev
+- Portfolio: https://yuvrajuppal.dev/
 
 Feel free to explore my repositories or reach out if you'd like to collaborate!
 
