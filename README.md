@@ -1,58 +1,28 @@
-# Hi, I'm Yuvraj Uppal 👋
+# About Me
 
-🚀 **App Developer | Web Developer | Backend Engineer**  
+Hello! I'm Yuvraj Uppal, a passionate Full-Stack Developer specializing in Web and App development.
 
-Welcome to my GitHub portfolio! I'm passionate about building modern web and mobile applications using cutting-edge technologies.
+## Skills & Expertise
+- React Native mobile app development (Cross-platform)
+- Backend API design and development using Express.js and MongoDB
+- Full-stack web development with JavaScript and TypeScript
+- Database schema design and optimization (MongoDB, MySQL)
+- Version control with Git and GitHub workflows
+- Building and deploying performant, user-friendly mobile and web applications
 
----
+## Interests
+- Exploring advanced React Native features and UI/UX enhancements
+- Implementing secure authentication and payment integration
+- Contributing to open source projects
+- Sharing technical insights and tutorials on LinkedIn and other platforms
 
-## 🔥 Skills & Technologies
+## Get In Touch
+- LinkedIn: https://www.linkedin.com/in/yuvrajuppal/
+- Email: = yuvrajuppal211@gmail.com
+- Portfolio: yuvrajuppal.dev
 
-- **Frontend:** Flutter (Dart), HTML, CSS, JavaScript  
-- **Backend:** PHP, SQL, Firebase, Node.js  
-- **Databases:** MySQL, Firebase Firestore  
-- **Other:** Linux, Ubuntu, API Development, Authentication, CRUD Operations  
-
----
-
-## 📂 Featured Projects
-
-### 🎬 Yuwatch  
-*A streaming app like Netflix*  
-- Built using **Flutter** for front-end  
-- **Firebase** for authentication and database  
-- **PHP & SQL** for backend  
-
-🔗 [GitHub Repository](https://github.com/yuvrajuppal/YuWatchApk)
-
-### 🛒 E-Commerce App  
-*A complete shopping experience*  
-- **Flutter** front-end  
-- **Firebase** backend  
-- Supports authentication, cart, payments  
-
-🔗 [GitHub Repository](https://github.com/yuvrajuppal/yukart)
-
-### 💬 Chat Application  
-*A real-time messaging app*  
-- **Flutter & Firebase**  
-- Supports image sharing, push notifications  
-
-🔗 [GitHub Repository](https://github.com/yuvrajuppal/yuchat)
+Feel free to explore my repositories or reach out if you'd like to collaborate!
 
 ---
 
-## 📈 GitHub Stats  
-
-![Yuvraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuvrajuppal&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajuppal&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Contact Me  
-
-- 📧 Email: yuvrajuppal211@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/yuvrajuppal](https://www.linkedin.com/in/yuvrajuppal/)  
-- 🌍 Website: [yuvrajuppal.in](https://yuvrajuppal.in/)  
-
-Let's connect and build something amazing! 🚀  
+*This README will be continuously updated as I grow my skills and work on new projects.*
