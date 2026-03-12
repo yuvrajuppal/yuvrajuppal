@@ -17,13 +17,15 @@ I'm an enthusiastic **Full-Stack Developer**, **Web Trainer**, and **Techie** wh
 
 **Frameworks & Libraries**
 
-| <img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> | <img alt="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/> | <img alt="Tailwind CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/> | <img alt="Express" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/> | <img alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> |
+| <img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> | <img alt="React Native" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> | <img alt="Electron" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"/> | <img alt="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/> | <img alt="Tailwind CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/> |
 |--|--|--|--|--|
 
-**Tools & OS**
+---
 
-| <img alt="Linux Mint" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> | <img alt="macOS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"/> | <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> | <img alt="VSCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> |
-|--|--|--|--|
+## 📱 Cross-Platform Development
+Beyond the web, I specialize in building native experiences:
+* **Mobile:** Crafting Android and iOS applications using **React Native**.
+* **Desktop:** Developing Windows and macOS software with **Electron.js**.
 
 ---
 
