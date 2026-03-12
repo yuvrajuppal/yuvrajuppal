@@ -39,9 +39,9 @@ I'm an enthusiastic **Full-Stack Developer**, **Web Trainer**, and **Techie** wh
 ## Connect with Me
 
 [<img align="left" alt="Portfolio" width="35px" src="https://img.icons8.com/fluency/48/000000/domain.png" />](https://yuvrajuppal.com)
-[<img align="left" alt="LinkedIn" width="35px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />](https://www.linkedin.com/in/yuvraj-uppal)
+[<img align="left" alt="LinkedIn" width="35px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />](https://www.linkedin.com/in/yuvrajuppal)
 [<img align="left" alt="YouTube" width="35px" src="https://img.icons8.com/fluency/48/000000/youtube-play.png" />](https://www.youtube.com/@GooseCodes)
-[<img align="left" alt="GitHub" width="35px" src="https://img.icons8.com/fluency/48/000000/github.png" />](https://github.com/yuvraj-uppal)
+[<img align="left" alt="GitHub" width="35px" src="https://img.icons8.com/fluency/48/000000/github.png" />](https://github.com/yuvrajuppal)
 
 <br/><br/>
 
@@ -49,5 +49,5 @@ I'm an enthusiastic **Full-Stack Developer**, **Web Trainer**, and **Techie** wh
 
 ### 📊 GitHub Stats
 
-![Yuvraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuvraj-uppal&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj-uppal&layout=compact&theme=radical)
+![Yuvraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuvrajuppal&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajuppal&layout=compact&theme=radical)
